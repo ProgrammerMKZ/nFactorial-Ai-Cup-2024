@@ -1,11 +1,11 @@
 # nFactorial-Ai-Cup-2024
 Fork this repository and build nFactorial Ai Cup 2024 projects 
 
-## < Your Name >
+## < Zharas Miras >
 
-## < Your App's Name >
+## < Find & Cure >
 
-## < Your App's description, technical considerations, etc. >
+## < App focuses on the health, medicine related field. It uses 3 AI models, 1 of which is LLM and other 2 are computer vision models. >
 
 
 ## Typeform to submit:
