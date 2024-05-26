@@ -1,0 +1,155 @@
+.tumor-child {
+  position: absolute;
+  top: 269px;
+  left: 115px;
+  box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 35.31px;
+  background: linear-gradient(135.21deg, #fff 7.31%, rgba(187, 187, 187, 0));
+  border: 3px dashed var(--color-gray);
+  box-sizing: border-box;
+  width: 538px;
+  height: 842px;
+}
+.upload-your-mri {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.upload-your-mri-image-wrapper {
+  position: absolute;
+  top: 340px;
+  left: 160px;
+  width: 421px;
+  height: 49px;
+}
+.frame-child2 {
+  width: 144px;
+  position: relative;
+  height: 284px;
+}
+.frame-group {
+  position: absolute;
+  top: 804px;
+  left: 861px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-41xl);
+}
+.lorem-ipsum-dolor2,
+.probability-of-you {
+  position: absolute;
+  top: 60px;
+  left: 49px;
+}
+.lorem-ipsum-dolor2 {
+  top: 139px;
+  font-size: var(--font-size-13xl);
+  display: flex;
+  color: var(--color-gray);
+  align-items: center;
+  width: 741px;
+}
+.probability-of-you-having-a-tu-parent {
+  position: absolute;
+  top: 269px;
+  left: 799px;
+  box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 35.31px;
+  background: linear-gradient(136.23deg, #efefef 7.31%, rgba(187, 187, 187, 0));
+  border: 3px solid var(--color-dodgerblue);
+  box-sizing: border-box;
+  width: 879px;
+  height: 1280px;
+  overflow: hidden;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+}
+.group-child7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 5.4px 25.66px rgba(22, 120, 242, 0.2),
+    0 5.4px 5.4px rgba(0, 0, 0, 0.12) inset;
+  border-radius: 50%;
+  background: linear-gradient(96.14deg, #3a8ef6, #6f3afa);
+  width: 32.4px;
+  height: 32.4px;
+}
+.group-child8,
+.group-child9 {
+  position: absolute;
+  top: 0;
+  left: 5.7px;
+  border-radius: 1.06px;
+  background-color: var(--color-white);
+  width: 7px;
+  height: 18.3px;
+}
+.group-child9 {
+  top: 5.6px;
+  left: 18.3px;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.ellipse-parent1,
+.rectangle-parent2 {
+  position: absolute;
+  top: 7px;
+  left: 7px;
+  width: 18.3px;
+  height: 18.3px;
+}
+.ellipse-parent1 {
+  top: 0;
+  left: 262px;
+  width: 32.4px;
+  height: 32.4px;
+}
+.find-cure3 {
+  position: absolute;
+  top: 16.3px;
+  left: 0;
+  background: linear-gradient(96.14deg, #3a8ef6, #6f3afa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.group-parent2 {
+  position: absolute;
+  top: 81px;
+  left: 233px;
+  width: 294.4px;
+  height: 75.3px;
+  cursor: pointer;
+  font-size: var(--font-size-24xl-2);
+}
+.f-1-icon2 {
+  position: absolute;
+  top: 52px;
+  left: 54px;
+  border-radius: var(--br-278xl);
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+.tumor-item {
+  position: absolute;
+  top: 411px;
+  left: 152px;
+  background-color: var(--color-white);
+  width: 463px;
+  height: 620px;
+}
+.tumor {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-ghostwhite);
+  height: 1800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-dimgray);
+  font-family: var(--font-alef);
+}

@@ -1,0 +1,21 @@
+{% extends 'main/layout.html' %}
+
+{% block title %}Symptoms{% endblock %}
+{% block content %}
+
+
+<form method="post">
+    {% csrf_token %}
+    <input type="text" name="text-input">
+    <input type="submit" value="Check">
+</form>
+
+<div>
+    {% for i in result_arr %}
+        {{i}} <br>
+    {% endfor %}
+</div>
+
+{{error_msg}}
+
+{% endblock %}
