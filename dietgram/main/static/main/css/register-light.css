@@ -1,0 +1,196 @@
+.background-icon1 {
+  position: absolute;
+  top: 295.6px;
+  left: 65.5px;
+  width: 424.7px;
+  height: 485.9px;
+}
+.list-of-possible,
+.texte {
+  position: absolute;
+  width: 881px;
+  height: 61px;
+}
+.list-of-possible {
+  top: 0;
+  left: 0;
+  line-height: 76.04px;
+  display: inline-block;
+}
+.texte {
+  top: 169px;
+  left: 519px;
+  font-size: 64px;
+}
+.diagnostics1,
+.home1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.diagnostics1 {
+  top: 3.1px;
+  left: 102.5px;
+}
+.home-group {
+  width: 226.5px;
+  position: relative;
+  height: 32.1px;
+}
+.nav-menu1 {
+  position: absolute;
+  top: 125px;
+  left: 847px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: var(--font-size-2xl-6);
+  color: var(--color-darkslategray);
+}
+.list-of-possible-diagnostics-child {
+  position: absolute;
+  top: 161px;
+  left: 982px;
+  border-top: 2px solid var(--color-royalblue-200);
+  box-sizing: border-box;
+  width: 58px;
+  height: 2px;
+  opacity: 0.3;
+}
+.group-child4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 5.4px 25.66px rgba(22, 120, 242, 0.2),
+    0 5.4px 5.4px rgba(0, 0, 0, 0.12) inset;
+  border-radius: 50%;
+  background: linear-gradient(96.14deg, #3a8ef6, #6f3afa);
+  width: 32.4px;
+  height: 32.4px;
+}
+.group-child5,
+.group-child6 {
+  position: absolute;
+  top: 0;
+  left: 5.7px;
+  border-radius: 1.06px;
+  background-color: var(--color-white);
+  width: 7px;
+  height: 18.3px;
+}
+.group-child6 {
+  top: 5.6px;
+  left: 18.3px;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 7px;
+  left: 7px;
+  width: 18.3px;
+  height: 18.3px;
+}
+.ellipse-container {
+  position: absolute;
+  top: 0;
+  left: 262px;
+  width: 32.4px;
+  height: 32.4px;
+}
+.find-cure2 {
+  position: absolute;
+  top: 16.3px;
+  left: 0;
+  background: linear-gradient(96.14deg, #3a8ef6, #6f3afa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.group-parent1 {
+  position: absolute;
+  top: 79px;
+  left: 231px;
+  width: 294.4px;
+  height: 75.3px;
+  cursor: pointer;
+  font-size: var(--font-size-24xl-2);
+}
+.f-2-icon {
+  position: absolute;
+  top: 50px;
+  left: 52px;
+  border-radius: var(--br-278xl);
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+.symptoms-based,
+.this-diagnostic-can {
+  position: absolute;
+  top: 74px;
+  left: 32px;
+  display: flex;
+  align-items: center;
+  width: 702px;
+}
+.this-diagnostic-can {
+  top: 239px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray);
+}
+.symptoms-based-disease-detec-parent {
+  position: absolute;
+  top: 339px;
+  left: 139px;
+  box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 35.31px;
+  background: linear-gradient(136.23deg, #efefef 7.31%, rgba(187, 187, 187, 0));
+  border: 3px solid var(--color-dodgerblue);
+  box-sizing: border-box;
+  width: 771px;
+  height: 483px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.this-diagnostic-analyzes {
+  position: absolute;
+  top: 261px;
+  left: 32px;
+  font-size: var(--font-size-13xl);
+  display: flex;
+  color: var(--color-gray);
+  align-items: center;
+  width: 702px;
+}
+.mri-scan-based-tumor-detecti-parent,
+.x-ray-scan-based-pneumonia-d-parent {
+  position: absolute;
+  top: 339px;
+  left: 957px;
+  box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 35.31px;
+  background: linear-gradient(136.23deg, #efefef 7.31%, rgba(187, 187, 187, 0));
+  border: 3px solid var(--color-dodgerblue);
+  box-sizing: border-box;
+  width: 771px;
+  height: 483px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.mri-scan-based-tumor-detecti-parent {
+  top: 886px;
+  left: 546px;
+}
+.list-of-possible-diagnostics {
+  width: 100%;
+  position: relative;
+  border-radius: 34.03px;
+  background-color: var(--color-ghostwhite);
+  height: 1655px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-alef);
+}

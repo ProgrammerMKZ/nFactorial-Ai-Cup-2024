@@ -1,0 +1,170 @@
+.pneumonia-child {
+  position: absolute;
+  top: 269px;
+  left: 115px;
+  box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 35.31px;
+  background: linear-gradient(135.21deg, #fff 7.31%, rgba(187, 187, 187, 0));
+  border: 3px dashed var(--color-gray);
+  box-sizing: border-box;
+  width: 538px;
+  height: 842px;
+}
+.upload-your-x-ray {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.upload-your-x-ray-scan-wrapper {
+  position: absolute;
+  top: 340px;
+  left: 160px;
+  width: 431px;
+  height: 49px;
+}
+.frame-child5 {
+  width: 144px;
+  position: relative;
+  height: 284px;
+}
+.frame-container {
+  position: absolute;
+  top: 804px;
+  left: 861px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-41xl);
+}
+.lorem-ipsum-dolor3,
+.probability-of-you1 {
+  position: absolute;
+  top: 60px;
+  left: 49px;
+  display: flex;
+  align-items: center;
+  width: 741px;
+}
+.lorem-ipsum-dolor3 {
+  top: 207px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray);
+}
+.lorem-ipsum-dolor4,
+.recommendations-for-treatment1 {
+  position: absolute;
+  top: 637px;
+  left: 49px;
+  display: flex;
+  align-items: center;
+  width: 782px;
+}
+.lorem-ipsum-dolor4 {
+  top: 771px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray);
+  width: 741px;
+}
+.probability-of-you-having-a-pn-parent {
+  position: absolute;
+  top: 269px;
+  left: 799px;
+  box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 35.31px;
+  background: linear-gradient(136.23deg, #efefef 7.31%, rgba(187, 187, 187, 0));
+  border: 3px solid var(--color-dodgerblue);
+  box-sizing: border-box;
+  width: 879px;
+  height: 1280px;
+  overflow: hidden;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+}
+.group-child10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 5.4px 25.66px rgba(22, 120, 242, 0.2),
+    0 5.4px 5.4px rgba(0, 0, 0, 0.12) inset;
+  border-radius: 50%;
+  background: linear-gradient(96.14deg, #3a8ef6, #6f3afa);
+  width: 32.4px;
+  height: 32.4px;
+}
+.group-child11,
+.group-child12 {
+  position: absolute;
+  top: 0;
+  left: 5.7px;
+  border-radius: 1.06px;
+  background-color: var(--color-white);
+  width: 7px;
+  height: 18.3px;
+}
+.group-child12 {
+  top: 5.6px;
+  left: 18.3px;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.ellipse-parent2,
+.rectangle-parent3 {
+  position: absolute;
+  top: 7px;
+  left: 7px;
+  width: 18.3px;
+  height: 18.3px;
+}
+.ellipse-parent2 {
+  top: 0;
+  left: 262px;
+  width: 32.4px;
+  height: 32.4px;
+}
+.find-cure4 {
+  position: absolute;
+  top: 16.3px;
+  left: 0;
+  background: linear-gradient(96.14deg, #3a8ef6, #6f3afa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.group-parent3 {
+  position: absolute;
+  top: 81px;
+  left: 233px;
+  width: 294.4px;
+  height: 75.3px;
+  cursor: pointer;
+  font-size: var(--font-size-24xl-2);
+}
+.f-1-icon3 {
+  position: absolute;
+  top: 52px;
+  left: 54px;
+  border-radius: var(--br-278xl);
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+.pneumonia-item {
+  position: absolute;
+  top: 411px;
+  left: 152px;
+  background-color: var(--color-white);
+  width: 463px;
+  height: 620px;
+}
+.pneumonia {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-ghostwhite);
+  height: 1800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-dimgray);
+  font-family: var(--font-alef);
+}
